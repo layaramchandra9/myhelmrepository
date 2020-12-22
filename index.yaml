@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-22T14:52:31.053144162Z"
+    description: A Helm chart for java web application
+    digest: 7f6911ccd925c93f561f707486dc373530047a7c62280fc2e73dbc6c535bba39
+    name: javawebapp
+    type: application
+    urls:
+    - https://layaramchandra9.github.io/myhelmrepository/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-22T14:52:31.051914093Z"
